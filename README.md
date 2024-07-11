@@ -137,3 +137,11 @@
 | 应用标识 | 名称 | 版本号 | 更新时间 | 开发者 | 介绍页面 |
 | -------- | ---- | ------ | -------- | ------ | -------- |
 | [ToDo](https://raw.githubusercontent.com/aazooo/ZJMF-CBAP-plugins/main/plugins/widget/ToDo.zip) | 代办事项挂件 | 1.0.0 | 2024-06-28 | 智简魔方 | [✈](https://my.idcsmart.com/shop/shop_detail.html?id=2004&clientId=1226) |
+
+#### 应用类别：主题
+
+| 应用标识                                                     | 名称                  | 版本号 | 更新时间   | 开发者   | 介绍页面                                                     |
+| ------------------------------------------------------------ | --------------------- | ------ | ---------- | -------- | ------------------------------------------------------------ |
+| [cart1](https://raw.githubusercontent.com/aazooo/ZJMF-CBAP-plugins/main/plugins/template/cart1.zip) | 商品选购主题-经典横版 | 1.0.1  | 2024-04-29 | 智简魔方 | [✈](https://my.idcsmart.com/shop/shop_detail.html?id=1943&clientId=1226) |
+| [cart2](https://raw.githubusercontent.com/aazooo/ZJMF-CBAP-plugins/main/plugins/template/cart2.zip) | 商品选购主题-经典竖版 | 1.0.1  | 2024-04-29 | 智简魔方 | [✈](https://my.idcsmart.com/shop/shop_detail.html?id=1944&clientId=1226) |
+| [Mf101](https://raw.githubusercontent.com/aazooo/ZJMF-CBAP-plugins/main/plugins/template/Mf101.zip) | 官网主题101           | 1.0.1  | 2024-06-17 | 智简魔方 | [✈](https://my.idcsmart.com/shop/shop_detail.html?id=1946&clientId=1226) |
