@@ -76,7 +76,7 @@
 | [Stripe](https://raw.githubusercontent.com/aazooo/ZJMF-CBAP-plugins/main/plugins/gateway/Stripe.zip) | Stripe聚合支付 | 2.0.0 | 2024-04-28 | 智简魔方 | [✈](https://my.idcsmart.com/shop/shop_detail.html?id=1823&clientId=1226) |
 | [WxPay](https://raw.githubusercontent.com/aazooo/ZJMF-CBAP-plugins/main/plugins/gateway/WxPay.zip) | 微信支付多合一 | 2.0.1 | 2024-05-06 | 智简魔方 | [✈](https://my.idcsmart.com/shop/shop_detail.html?id=1515&clientId=1226) |
 
-#### 应用类别：mail
+#### 应用类别：邮件接口
 
 | 应用标识 | 名称 | 版本号 | 更新时间 | 开发者 | 介绍页面 |
 | -------- | ---- | ------ | -------- | ------ | -------- |
@@ -84,7 +84,7 @@
 | [Btmail](https://raw.githubusercontent.com/aazooo/ZJMF-CBAP-plugins/main/plugins/mail/Btmail.zip) | 宝塔邮局API | 1.0.2 | 2024-01-22 | 猫咪云 | [✈](https://my.idcsmart.com/shop/shop_detail.html?id=1403&clientId=8422) |
 | [Subemail](https://raw.githubusercontent.com/aazooo/ZJMF-CBAP-plugins/main/plugins/mail/Subemail.zip) | 赛邮邮件接口服务 | 1.0.0 | 2021-12-15 | 智简魔方 | [✈](https://my.idcsmart.com/shop/shop_detail.html?id=939&clientId=1226) |
 
-#### 应用类别：oauth
+#### 应用类别：第三方登录
 
 | 应用标识 | 名称 | 版本号 | 更新时间 | 开发者 | 介绍页面 |
 | -------- | ---- | ------ | -------- | ------ | -------- |
@@ -96,13 +96,13 @@
 | [Weibo](https://raw.githubusercontent.com/aazooo/ZJMF-CBAP-plugins/main/plugins/oauth/Weibo.zip) | 微博 | 1.0.0 | 2023-12-29 | 智简魔方 | [✈](https://my.idcsmart.com/shop/shop_detail.html?id=1847&clientId=1226) |
 | [Weixin](https://raw.githubusercontent.com/aazooo/ZJMF-CBAP-plugins/main/plugins/oauth/Weixin.zip) | 微信 | 1.0.0 | 2023-12-29 | 智简魔方 | [✈](https://my.idcsmart.com/shop/shop_detail.html?id=1844&clientId=1226) |
 
-#### 应用类别：oss
+#### 应用类别：对象存储
 
 | 应用标识 | 名称 | 版本号 | 更新时间 | 开发者 | 介绍页面 |
 | -------- | ---- | ------ | -------- | ------ | -------- |
 | [TencentcloudOss](https://raw.githubusercontent.com/aazooo/ZJMF-CBAP-plugins/main/plugins/oss/TencentcloudOss.zip) | 腾讯云COS | 1.0.0 | 2024-06-14 | 智简魔方 | [✈](https://my.idcsmart.com/shop/shop_detail.html?id=1982&clientId=1226) |
 
-#### 应用类别：server
+#### 应用类别：模块
 
 | 应用标识 | 名称 | 版本号 | 更新时间 | 开发者 | 介绍页面 |
 | -------- | ---- | ------ | -------- | ------ | -------- |
@@ -114,7 +114,7 @@
 | [WestDomain](https://raw.githubusercontent.com/aazooo/ZJMF-CBAP-plugins/main/plugins/server/WestDomain.zip) | 西部数码域名模块 | 2.1.0 | 2024-05-30 | 智简魔方 | [✈](https://my.idcsmart.com/shop/shop_detail.html?id=1700&clientId=1226) |
 | [ZgsjDomain](https://raw.githubusercontent.com/aazooo/ZJMF-CBAP-plugins/main/plugins/server/ZgsjDomain.zip) | 中数域名模块 | 2.1.0 | 2024-05-30 | 智简魔方 | [✈](https://my.idcsmart.com/shop/shop_detail.html?id=1764&clientId=1226) |
 
-#### 应用类别：sms
+#### 应用类别：短信接口
 
 | 应用标识 | 名称 | 版本号 | 更新时间 | 开发者 | 介绍页面 |
 | -------- | ---- | ------ | -------- | ------ | -------- |
@@ -125,14 +125,14 @@
 | [Submail](https://raw.githubusercontent.com/aazooo/ZJMF-CBAP-plugins/main/plugins/sms/Submail.zip) | 赛邮短信接口服务 | 1.0.0 | 2022-01-05 | 智简魔方 | [✈](https://my.idcsmart.com/shop/shop_detail.html?id=956&clientId=1226) |
 | [Tysms](https://raw.githubusercontent.com/aazooo/ZJMF-CBAP-plugins/main/plugins/sms/Tysms.zip) | 通用短信宝式接口 | 1.0.1 | 2023-08-08 | 天神网络科技 | [✈](https://my.idcsmart.com/shop/shop_detail.html?id=1714&clientId=2521) |
 
-#### 应用类别：sub_server
+#### 应用类别：子模块
 
 | 应用标识 | 名称 | 版本号 | 更新时间 | 开发者 | 介绍页面 |
 | -------- | ---- | ------ | -------- | ------ | -------- |
 | [bthostx](https://raw.githubusercontent.com/aazooo/ZJMF-CBAP-plugins/main/plugins/sub_server/bthostx.zip) | 宝塔虚拟主机（Bthost模块V10版） | 1.0.0 | 2024-04-02 | 未知未来未完成 | [✈](https://my.idcsmart.com/shop/shop_detail.html?id=1919&clientId=1872) |
 | [kanghostx](https://raw.githubusercontent.com/aazooo/ZJMF-CBAP-plugins/main/plugins/sub_server/kanghostx.zip) | Kangle对接模块（V10版）/Easypanel模块 | 1.0.0 | 2024-04-02 | 未知未来未完成 | [✈](https://my.idcsmart.com/shop/shop_detail.html?id=1918&clientId=1872) |
 
-#### 应用类别：widget
+#### 应用类别：首页挂件
 
 | 应用标识 | 名称 | 版本号 | 更新时间 | 开发者 | 介绍页面 |
 | -------- | ---- | ------ | -------- | ------ | -------- |
